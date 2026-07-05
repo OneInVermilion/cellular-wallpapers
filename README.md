@@ -1,6 +1,8 @@
 # cellular-wallpapers
 Generate PNG images of famous cellular automata and mathematical systems using Python.
 
+<img src="https://i.imgur.com/nyJU0LY.png" width="600" alt="Wolfram Rule 30">
+
 ## Features
 
 * Generate images of the **Mandelbrot Set**
